@@ -1,0 +1,44 @@
+C:\Users\Nikita\Desktop\КПО попытка 2\ZooManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Nikita\Desktop\КПО попытка 2\ZooManagement\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Nikita\Desktop\КПО попытка 2\ZooManagement\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Nikita\Desktop\КПО попытка 2\ZooManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\КПО попытка 2\ZooManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\КПО попытка 2\ZooManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\КПО попытка 2\ZooManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\КПО попытка 2\ZooManagement\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Nikita\Desktop\КПО попытка 2\ZooManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Nikita\Desktop\КПО попытка 2\ZooManagement\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Nikita\Desktop\КПО попытка 2\ZooManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Nikita\Desktop\web app\ZooManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Nikita\Desktop\web app\ZooManagement\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Nikita\Desktop\web app\ZooManagement\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Nikita\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Nikita\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Nikita\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Nikita\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Alex\Desktop\web app\ZooManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Alex\Desktop\web app\ZooManagement\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Alex\Desktop\web app\ZooManagement\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Alex\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Alex\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Alex\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Alex\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Alex\Desktop\web app\ZooManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Alex\Desktop\mini_hw_2\ZooManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Alex\Desktop\mini_hw_2\ZooManagement\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Alex\Desktop\mini_hw_2\ZooManagement\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Alex\Desktop\mini_hw_2\ZooManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\mini_hw_2\ZooManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\mini_hw_2\ZooManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Alex\Desktop\mini_hw_2\ZooManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\mini_hw_2\ZooManagement\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Alex\Desktop\mini_hw_2\ZooManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Alex\Desktop\mini_hw_2\ZooManagement\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Alex\Desktop\mini_hw_2\ZooManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
